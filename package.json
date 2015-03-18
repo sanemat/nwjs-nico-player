@@ -5,7 +5,7 @@
   "homepage": "user/repo",
   "bugs": "user/repo/issues",
   "license": "MIT",
-  "main": "lib/nico-player.js",
+  "main": "app/index.html",
   "author": {
     "name": ""
   },

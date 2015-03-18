@@ -1,6 +1,6 @@
 'use strict';
 
-var nicoPlayer = require('../');
+var nicoPlayer = require('../app/js/nico-player');
 var assert = require('should');
 
 describe('nicoPlayer', function () {
