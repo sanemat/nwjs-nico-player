@@ -32,9 +32,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 Copyright (c) 2015. Licensed under the MIT license.
 
-[travis-url]: https://travis-ci.org/user/nico-player
-[travis-image]: https://travis-ci.org/user/nico-player.svg?branch=master
-[daviddm-url]: https://david-dm.org/user/nico-player.svg?theme=shields.io
-[daviddm-image]: https://david-dm.org/user/nico-player
-[coveralls-url]: https://coveralls.io/r/user/nico-player
-[coveralls-image]: https://coveralls.io/repos/user/nico-player/badge.png
+[travis-url]: https://travis-ci.org/sanemat/nwjs-nico-player
+[travis-image]: https://travis-ci.org/sanemat/nwjs-nico-player.svg?branch=master
+[daviddm-url]: https://david-dm.org/sanemat/nwjs-nico-player.svg?theme=shields.io
+[daviddm-image]: https://david-dm.org/sanemat/nwjs-nico-player
+[coveralls-url]: https://coveralls.io/r/sanemat/nwjs-nico-player
+[coveralls-image]: https://coveralls.io/repos/sanemat/nwjs-nico-player/badge.png
