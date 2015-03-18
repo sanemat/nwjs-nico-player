@@ -32,10 +32,6 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 Copyright (c) 2015. Licensed under the MIT license.
 
-
-
-[npm-url]: https://npmjs.org/package/nico-player
-[npm-image]: https://badge.fury.io/js/nico-player.svg
 [travis-url]: https://travis-ci.org/user/nico-player
 [travis-image]: https://travis-ci.org/user/nico-player.svg?branch=master
 [daviddm-url]: https://david-dm.org/user/nico-player.svg?theme=shields.io
